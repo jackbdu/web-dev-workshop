@@ -14,8 +14,11 @@ The Web has become an integral part of everyday lives and it plays a crucial rol
 | Apr 15 | TBD |
 
 Tentative Topics:
+
 p5.js: Creating Visuals, Animations, Games
+
 APIs: Interfacing with Other Web Services
+
 Jekyll: Creating an Online Blog or Portfolio
 
 ## Learning Outcomes
