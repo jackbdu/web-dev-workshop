@@ -1,25 +1,22 @@
 # Web Development Workshop Series
-*Making your own website from scratch for absolute beginners*
+*Making a website from scratch for absolute beginners*
 
 ## Workshop Description
-The Web has become an integral part of everyday lives and it plays a crucial role in modern college education. A better understanding of the basics of web development is a stepping-stone for participants looking to further dive into professional web development and it also provides invaluable insights to everyday web users. This workshop series provides an overview of the basics of HTML, CSS, JavaScript, which are the building blocks of the Web. It will also provide an introduction to libraries, frameworks, APIs, giving the participants an opportunity to further expand their capabilities. The participants will learn how websites are made: adding the contents, designing the styles, and implementing interactions. By the end of the workshop series, all participants will have a simple website that is accessible to the world, and they will have the skills and resources to build a more complex website on their own.
+The Web has become an integral part of everyday lives and it plays a crucial role in modern college education. A better understanding of the basics of web development is a stepping-stone for participants looking to further dive into professional web development and it also provides invaluable insights to everyday web users. This workshop series provides an overview of the basics of HTML, CSS, JavaScript, which are the building blocks of the Web. It will also provide an introduction to libraries, frameworks, APIs, giving the participants an opportunity to further expand their capabilities. The participants will learn how websites are made: designing layouts, adding content, manipulating styles, and implementing interactive features. By the end of the workshop series, all participants will have their own unique website that is accessible to the world, and they will have the skills and resources to build a more complex website on their own.
 
 ## Schedule
-The workshop meets every Wednesday 5–7pm.
 
 | Date  | Topic |
 | ------------- | ------------- |
-| Feb 12  | Basic HTML & CSS |
-| Feb 19  | Intermediate HTML & CSS |
-| Feb 26  | Open Working Session |
-| Mar 4  | JavaScript & jQuery |
-| Mar 11  | Open Working Session |
-| Apr 1  | Frameworks & APIs |
-| Apr 8  | Open Working Session |
-| Apr 15  | p5.js |
-| Apr 22  | Open Working Session |
-| Apr 29  | Server |
-| May 6  | Open Working Session |
+| Feb 26 | Basic HTML & CSS: Designing Layouts, Contents & Styles |
+| Mar 4  | JavaScript: Adding Interactive Features |
+| Apr 8  | TBD |
+| Apr 15 | TBD |
+
+Tentative Topics:
+p5.js: Creating Visuals, Animations, Games
+APIs: Interfacing with Other Web Services
+Jekyll: Creating an Online Blog or Portfolio
 
 ## Learning Outcomes
 By the end of the workshop series, participants will
@@ -28,8 +25,7 @@ By the end of the workshop series, participants will
 - Be able to identify and use the right frameworks depending on the needs
 - Be able to choose an API and learn its usage from documentations
 - Have a basic understanding of server-side web development
-- Be able to build a server for a simple web applications
-- Have a simple working website hosted on GitHub
+- Have a unique website hosted on GitHub
 - Be empowered with infinite resources online to further develop their skills in web development on their own
 
 ## Teaching Methodology
