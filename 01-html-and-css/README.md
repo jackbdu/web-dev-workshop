@@ -18,6 +18,30 @@ A **web browser** (commonly referred to as a **browser**) is a software applicat
 **Cascading Style Sheets** (**CSS**) is a style sheet language used for describing the presentation of a document written in a markup language like HTML. ([Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets))
 
 ## HTML
-
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Page Title</title>
+  </head>
+  <body>
+    <h1>This is a Heading</h1>
+    <p>This is a paragraph.</p>
+  </body>
+</html>
+```
 
 ## CSS
+```css
+body {
+  background: gray;
+}
+
+h1 {
+  font-family: sans-serif;
+}
+
+p {
+  color: red;
+}
+```
