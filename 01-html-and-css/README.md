@@ -55,3 +55,9 @@ p {
 ### Useful resources
 - HTML Tutorial on W3Schools: https://www.w3schools.com/html/default.asp
 - CSS Tutorial on W3Schools: https://www.w3schools.com/css/default.asp
+- HTML Element Reference: https://www.w3schools.com/TAGS/default.ASP
+- HTML <link> Tag: https://www.w3schools.com/tags/tag_link.asp
+- HTML Color Picker: https://www.w3schools.com/colors/colors_picker.asp
+- CSS Reference: https://www.w3schools.com/cssref/
+- CSS Units: https://www.w3schools.com/cssref/css_units.asp
+- Unsplash (Royalty Free Images): https://unsplash.com/
