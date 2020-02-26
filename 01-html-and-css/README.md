@@ -17,7 +17,9 @@ A **web browser** (commonly referred to as a **browser**) is a software applicat
 ### CSS
 **Cascading Style Sheets** (**CSS**) is a style sheet language used for describing the presentation of a document written in a markup language like HTML. ([Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets))
 
-## HTML
+## Overview
+
+### HTML
 ```html
 <!DOCTYPE html>
 <html>
@@ -31,7 +33,7 @@ A **web browser** (commonly referred to as a **browser**) is a software applicat
 </html>
 ```
 
-## CSS
+### CSS
 ```css
 body {
   background: gray;
@@ -45,3 +47,11 @@ p {
   color: red;
 }
 ```
+
+## Hands-on - HTML
+
+## Hands-on - CSS
+
+### Useful resources
+- HTML Tutorial on W3Schools: https://www.w3schools.com/html/default.asp
+- CSS Tutorial on W3Schools: https://www.w3schools.com/css/default.asp
