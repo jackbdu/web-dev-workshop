@@ -126,6 +126,12 @@ p {
 ```
 HTML Lists: [https://www.w3schools.com/html/html_lists.asp](https://www.w3schools.com/html/html_lists.asp)
 
+### Adding a link
+```html
+<a href="relative/or/absolute/url">This is a link</a>
+```
+HTML a tag: [https://www.w3schools.com/tags/tag_a.asp](https://www.w3schools.com/tags/tag_a.asp)
+
 ## Hands-on - CSS
 
 ### Useful resources
