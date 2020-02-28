@@ -90,7 +90,7 @@ p {
 
 
 ### Adding comments
-[View the code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/02-adding-comments/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/02-adding-comments/index.html)
+[View the code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/02-adding-comments/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/02-adding-comments/index.html)
 ```html
 <!--this is a comment-->
 ```
@@ -98,7 +98,7 @@ p {
 - HTML comment tag: [https://www.w3schools.com/tags/tag_comment.asp](https://www.w3schools.com/tags/tag_comment.asp)
 
 ### Adding an image
-[View the code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/03-adding-an-image/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/03-adding-an-image/index.html)
+[View the code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/03-adding-an-image/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/03-adding-an-image/index.html)
 ```html
 <img src="path/to/image" alt="alternative text">
 ```
@@ -106,7 +106,7 @@ p {
 - Unsplash (Royalty Free Photos): [https://unsplash.com](https://unsplash.com)
 
 ### Adding an list
-[View the code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/04-adding-an-list/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/04-adding-an-list/index.html)
+[View the code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/01-html-and-css/04-adding-an-list/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/04-adding-an-list/index.html)
 
 #### An unordered list
 ```html
