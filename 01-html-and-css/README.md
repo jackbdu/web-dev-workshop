@@ -208,8 +208,27 @@ p {
 - HTML link tag: [https://www.w3schools.com/tags/tag_link.asp](https://www.w3schools.com/tags/tag_link.asp)
 - Difference Between the 3 Types of CSS Styles: Inline, External and Internal: [https://www.hostinger.com/tutorials/difference-between-inline-external-and-internal-css#Internal-CSS](https://www.hostinger.com/tutorials/difference-between-inline-external-and-internal-css#Internal-CSS)
 
+### Colors
+[View the source code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/09-colors/) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/09-colors/index.html)
+```css
+body {
+  background-color: lightgray;
+}
 
-- HTML Color Picker: https://www.w3schools.com/colors/colors_picker.asp
+h1 {
+  color: rgb(255,0,0);
+}
+
+p {
+  color: #0000ff;
+}
+```
+- CSS color property: [https://www.w3schools.com/cssref/pr_text_color.asp](https://www.w3schools.com/cssref/pr_text_color.asp)
+- CSS background-color property: [https://www.w3schools.com/cssref/pr_background-color.asp](https://www.w3schools.com/cssref/pr_background-color.asp)
+- Colors tutorial: [https://www.w3schools.com/colors/default.asp](https://www.w3schools.com/colors/default.asp)
+- HTML color picker: [https://www.w3schools.com/colors/colors_picker.asp](https://www.w3schools.com/colors/colors_picker.asp)
+
+
 - CSS Units: https://www.w3schools.com/cssref/css_units.asp
 
 ## Suggested Homework
