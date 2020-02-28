@@ -127,12 +127,31 @@ p {
 HTML Lists: [https://www.w3schools.com/html/html_lists.asp](https://www.w3schools.com/html/html_lists.asp)
 
 ### Adding a link
-[View the code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/04-adding-a-link/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/04-adding-a-link/index.html)
+[View the code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/05-adding-a-link/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/05-adding-a-link/index.html)
 ```html
 <a href="relative/or/absolute/url">This is a link</a>
 ```
 HTML a tag: [https://www.w3schools.com/tags/tag_a.asp](https://www.w3schools.com/tags/tag_a.asp)
 
+### Adding multiple sections
+[View the code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/06-adding-multiple-sections/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/06-adding-multiple-sections/index.html)
+```html
+<div>
+  <h1>Section 1</h1>
+  <p>Paragraph of section 1.</p>
+</div>
+<div>
+  <h1>Section 2</h1>
+  <p>Paragraph of section 2.</p>
+</div>
+```
+- HTML div tag: [https://www.w3schools.com/tags/tag_div.asp](https://www.w3schools.com/tags/tag_div.asp)
+- HTML header tag: [https://www.w3schools.com/tags/tag_header.asp](https://www.w3schools.com/tags/tag_header.asp)
+- HTML nav tag: [https://www.w3schools.com/tags/tag_nav.asp](https://www.w3schools.com/tags/tag_nav.asp)
+- HTML main tag: [https://www.w3schools.com/tags/tag_main.asp](https://www.w3schools.com/tags/tag_main.asp)
+- HTML article tag: [https://www.w3schools.com/tags/tag_article.asp](https://www.w3schools.com/tags/tag_article.asp)
+- HTML aside tag: [https://www.w3schools.com/tags/tag_aside.asp](https://www.w3schools.com/tags/tag_aside.asp)
+- HTML footer tag: [https://www.w3schools.com/tags/tag_footer.asp](https://www.w3schools.com/tags/tag_footer.asp)
 
 ## Hands-on - CSS
 
