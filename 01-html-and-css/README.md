@@ -228,8 +228,59 @@ p {
 - Colors tutorial: [https://www.w3schools.com/colors/default.asp](https://www.w3schools.com/colors/default.asp)
 - HTML color picker: [https://www.w3schools.com/colors/colors_picker.asp](https://www.w3schools.com/colors/colors_picker.asp)
 
+### Sizes
+[View the source code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/10-sizes/) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/10-sizes/index.html)
+```css
+h1 {
+  font-size: 8em;
+}
 
-- CSS Units: https://www.w3schools.com/cssref/css_units.asp
+p {
+  font-size: 10px;
+}
+
+img {
+  width: 50%;
+}
+```
+- CSS width property: [https://www.w3schools.com/cssref/pr_dim_width.asp](https://www.w3schools.com/cssref/pr_dim_width.asp)
+- CSS height property: [https://www.w3schools.com/cssref/pr_dim_height.asp](https://www.w3schools.com/cssref/pr_dim_height.asp)
+- CSS height and width dimensions: [https://www.w3schools.com/css/css_dimension.asp](https://www.w3schools.com/css/css_dimension.asp)
+- CSS font-size property: [https://www.w3schools.com/cssref/pr_font_font-size.asp](https://www.w3schools.com/cssref/pr_font_font-size.asp)
+- CSS units: [https://www.w3schools.com/cssref/css_units.asp](https://www.w3schools.com/cssref/css_units.asp)
+- Fun with Viewport Units: [https://css-tricks.com/fun-viewport-units/](https://css-tricks.com/fun-viewport-units/)
+
+### Spaces
+```css
+body {
+  margin: 0;
+  padding: 10vw;
+  border-width: 1em;
+  border-style: solid;
+  border-color: gray;
+}
+
+h1 {
+  padding: 2em;
+  margin-bottom: 50px;
+  border: 2px solid green;
+}
+
+p {
+  margin: 15px;
+  padding: 10px 0 0 10px;
+  border: 1px dashed blue;
+}
+
+img {
+  padding-top: 10px;
+  border-top: 5px dotted red;
+}
+```
+- CSS box model: [https://www.w3schools.com/css/css_boxmodel.asp](https://www.w3schools.com/css/css_boxmodel.asp)
+- CSS margins: [https://www.w3schools.com/css/css_margin.asp](https://www.w3schools.com/css/css_margin.asp)
+- CSS borders: [https://www.w3schools.com/css/css_border.asp](https://www.w3schools.com/css/css_border.asp)
+- CSS padding: [https://www.w3schools.com/css/css_padding.asp](https://www.w3schools.com/css/css_padding.asp)
 
 ## Suggested Homework
 - Find a simple webpage that you really like
