@@ -33,14 +33,15 @@ HTML describes the structure and content of a web page.
   </body>
 </html>
 ```
-HTML Introduction: [https://www.w3schools.com/html/html_intro.asp](https://www.w3schools.com/html/html_intro.asp)
+- HTML Introduction: [https://www.w3schools.com/html/html_intro.asp](https://www.w3schools.com/html/html_intro.asp)
+- HTML Tutorial on W3Schools: [https://www.w3schools.com/html/default.asp](https://www.w3schools.com/html/default.asp)
 
 #### HTML Elements
 An HTML element usually consists of an opening tag and a closing tag, with content in between.
 ```html
 <tagname>some content</tagname>
 ```
-HTML Elements: [https://www.w3schools.com/html/html_elements.asp](https://www.w3schools.com/html/html_elements.asp)
+- HTML Elements: [https://www.w3schools.com/html/html_elements.asp](https://www.w3schools.com/html/html_elements.asp)
 
 ### CSS
 CSS describes the styles of the elements on a web page.
@@ -57,7 +58,8 @@ p {
   color: red;
 }
 ```
-CSS Introduction: [https://www.w3schools.com/css/css_intro.asp](https://www.w3schools.com/css/css_intro.asp)
+- CSS Introduction: [https://www.w3schools.com/css/css_intro.asp](https://www.w3schools.com/css/css_intro.asp)
+- CSS Tutorial on W3Schools: [https://www.w3schools.com/css/default.asp](https://www.w3schools.com/css/default.as)
 
 ## Hands-on - HTML
 
@@ -78,29 +80,36 @@ CSS Introduction: [https://www.w3schools.com/css/css_intro.asp](https://www.w3sc
 
 `<p></p>` defines a paragraph.
 
+- HTML doctype declaration: [https://www.w3schools.com/tags/tag_doctype.asp](https://www.w3schools.com/tags/tag_doctype.asp)
+- HTML html tag: [https://www.w3schools.com/tags/tag_html.asp](https://www.w3schools.com/tags/tag_html.asp)
+- HTML head tag: [https://www.w3schools.com/tags/tag_head.asp](https://www.w3schools.com/tags/tag_head.asp)
+- HTML title tag: [https://www.w3schools.com/tags/tag_title.asp](https://www.w3schools.com/tags/tag_title.asp)
+- HTML body tag: [https://www.w3schools.com/tags/tag_body.asp](https://www.w3schools.com/tags/tag_body.asp)
+- HTML h1 to h6 tags: [https://www.w3schools.com/tags/tag_hn.asp](https://www.w3schools.com/tags/tag_hn.asp)
+- HTML p tag: [https://www.w3schools.com/tags/tag_p.asp](https://www.w3schools.com/tags/tag_p.asp)
+
+
 ### Adding comments
 [View the code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/02-adding-comments/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/02-adding-comments/index.html)
 ```html
 <!--this is a comment-->
 ```
 
-HTML Comment Tag: [https://www.w3schools.com/tags/tag_comment.asp](https://www.w3schools.com/tags/tag_comment.asp)
+- HTML comment tag: [https://www.w3schools.com/tags/tag_comment.asp](https://www.w3schools.com/tags/tag_comment.asp)
 
 ### Adding an image
 [View the code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/03-adding-an-image/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/02-adding-an-image/index.html)
 ```html
 <img src="path/to/image" alt="alternative text">
 ```
-HTML Image Tag: [https://www.w3schools.com/tags/tag_img.asp](https://www.w3schools.com/tags/tag_img.asp)
+- HTML img tag: [https://www.w3schools.com/tags/tag_img.asp](https://www.w3schools.com/tags/tag_img.asp)
+- Unsplash (Royalty Free Photos): [https://unsplash.com](https://unsplash.com)
 
 ## Hands-on - CSS
 
 ### Useful resources
-- HTML Tutorial on W3Schools: https://www.w3schools.com/html/default.asp
-- CSS Tutorial on W3Schools: https://www.w3schools.com/css/default.asp
 - HTML Element Reference: https://www.w3schools.com/TAGS/default.ASP
 - HTML <link> Tag: https://www.w3schools.com/tags/tag_link.asp
 - HTML Color Picker: https://www.w3schools.com/colors/colors_picker.asp
 - CSS Reference: https://www.w3schools.com/cssref/
 - CSS Units: https://www.w3schools.com/cssref/css_units.asp
-- Unsplash (Royalty Free Images): https://unsplash.com/
