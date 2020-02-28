@@ -1,6 +1,6 @@
 # HTML & CSS - Designing Layouts, Content & Styles
 
-## Wikipedia definitions
+## Terminologies
 
 ### Internet
 The **Internet** is the global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to link devices worldwide. ([Wikipedia](https://en.wikipedia.org/wiki/Internet))
@@ -20,11 +20,12 @@ A **web browser** (commonly referred to as a **browser**) is a software applicat
 ## Overview
 
 ### HTML
+HTML describes the structure and content of a web page.
 ```html
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Page Title</title>
+    <title>Title of the page</title>
   </head>
   <body>
     <h1>This is a Heading</h1>
@@ -32,8 +33,17 @@ A **web browser** (commonly referred to as a **browser**) is a software applicat
   </body>
 </html>
 ```
+HTML Introduction: [https://www.w3schools.com/html/html_intro.asp](https://www.w3schools.com/html/html_intro.asp)
+
+#### HTML Elements
+An HTML element usually consists of an opening tag and a closing tag, with content in between.
+```html
+<tagname>some content</tagname>
+```
+HTML Elements: [https://www.w3schools.com/html/html_elements.asp](https://www.w3schools.com/html/html_elements.asp)
 
 ### CSS
+CSS describes the styles of the elements on a web page.
 ```css
 body {
   background: gray;
@@ -47,8 +57,26 @@ p {
   color: red;
 }
 ```
+CSS Introduction: [https://www.w3schools.com/css/css_intro.asp](https://www.w3schools.com/css/css_intro.asp)
 
 ## Hands-on - HTML
+
+### [Simplest page](01-01-simplest-page.html)
+[View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/01-01-simplest-page.html)
+
+`<DOCTYPE! html>` defines the document type to be HTML5.
+
+`<html></html>` defines an HTML document, all HTML elements except for `<DOCTYPE html>` go in here.
+
+`<head></head>` defines the information about the document, and elements in here do not show up on the page.
+
+`<title></title>` defines the tile of the page, and shows up in the browser tab of the page.
+
+`<body></body>` defines the body of the page. The elements in the body show up on the page.
+
+`<h1></h1>` defines a heading.
+
+`<p></p>` defines a paragraph.
 
 ## Hands-on - CSS
 
