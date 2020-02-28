@@ -61,8 +61,8 @@ CSS Introduction: [https://www.w3schools.com/css/css_intro.asp](https://www.w3sc
 
 ## Hands-on - HTML
 
-### [Simplest page](01-01-simplest-page.html)
-[View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/01-01-simplest-page.html)
+### Simplest page
+[View the code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/01-simplest-page/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/01-01-simplest-page/index.html)
 
 `<DOCTYPE! html>` defines the document type to be HTML5.
 
@@ -77,6 +77,21 @@ CSS Introduction: [https://www.w3schools.com/css/css_intro.asp](https://www.w3sc
 `<h1></h1>` defines a heading.
 
 `<p></p>` defines a paragraph.
+
+### Adding comments
+[View the code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/02-adding-comments/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/02-adding-comments/index.html)
+```html
+<!--this is a comment-->
+```
+
+HTML Comment Tag: [https://www.w3schools.com/tags/tag_comment.asp](https://www.w3schools.com/tags/tag_comment.asp)
+
+### Adding an image
+[View the code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/03-adding-an-image/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/02-adding-an-image/index.html)
+```html
+<img src="path/to/image" alt="alternative text">
+```
+HTML Image Tag: [https://www.w3schools.com/tags/tag_img.asp](https://www.w3schools.com/tags/tag_img.asp)
 
 ## Hands-on - CSS
 
