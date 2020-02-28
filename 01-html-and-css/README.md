@@ -105,6 +105,27 @@ p {
 - HTML img tag: [https://www.w3schools.com/tags/tag_img.asp](https://www.w3schools.com/tags/tag_img.asp)
 - Unsplash (Royalty Free Photos): [https://unsplash.com](https://unsplash.com)
 
+### Adding an list
+[View the code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/04-adding-an-list/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/04-adding-an-list/index.html)
+
+#### An unordered list
+```html
+<ul>
+  <li>Unordered Item 1</li>
+  <li>Unordered Item 2</li>
+  <li>Unordered Item 3</li>
+</ul>
+```
+#### An ordered list
+```html
+<ol>
+  <li>Ordered Item 1</li>
+  <li>Ordered Item 2</li>
+  <li>Ordered Item 3</li>
+</ol>
+```
+HTML Lists: [https://www.w3schools.com/html/html_lists.asp](https://www.w3schools.com/html/html_lists.asp)
+
 ## Hands-on - CSS
 
 ### Useful resources
