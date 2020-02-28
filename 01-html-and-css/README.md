@@ -105,7 +105,7 @@ p {
 - HTML img tag: [https://www.w3schools.com/tags/tag_img.asp](https://www.w3schools.com/tags/tag_img.asp)
 - Unsplash (Royalty Free Photos): [https://unsplash.com](https://unsplash.com)
 
-### Adding an list
+### Adding a list
 [View the code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/04-adding-a-list/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/04-adding-a-list/index.html)
 
 #### An unordered list
