@@ -61,7 +61,8 @@ p {
 ```
 - CSS introduction: [https://www.w3schools.com/css/css_intro.asp](https://www.w3schools.com/css/css_intro.asp)
 - CSS tutorial: [https://www.w3schools.com/css/default.asp](https://www.w3schools.com/css/default.as)
-- CSS Reference: https://www.w3schools.com/cssref/
+- CSS reference: [https://www.w3schools.com/cssref/](https://www.w3schools.com/cssref/)
+- CSS default values reference: [https://www.w3schools.com/cssref/css_default_values.asp](https://www.w3schools.com/cssref/css_default_values.asp)
 
 ## Hands-on - HTML
 
