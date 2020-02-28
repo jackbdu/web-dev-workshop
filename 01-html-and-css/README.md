@@ -61,6 +61,7 @@ p {
 ```
 - CSS introduction: [https://www.w3schools.com/css/css_intro.asp](https://www.w3schools.com/css/css_intro.asp)
 - CSS tutorial: [https://www.w3schools.com/css/default.asp](https://www.w3schools.com/css/default.as)
+- CSS Reference: https://www.w3schools.com/cssref/
 
 ## Hands-on - HTML
 
@@ -161,7 +162,60 @@ A simple website that combines all of the above.
 
 ## Hands-on - CSS
 
-- HTML link tag: https://www.w3schools.com/tags/tag_link.asp
+### Using CSS
+[View the source code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/08-using-css/) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/08-using-css/index.html)
+#### Inline CSS
+```html
+<p style="color: red;">This paragraph will be in red.</p>
+```
+#### Internal CSS
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      p {
+        color: red;
+      }
+    </style>
+  </head>
+  <body>
+    <p>This paragraph will be in red.</p>
+  </body>
+</html>
+```
+#### External CSS
+```html
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <p>This paragraph will be in red.</p>
+  </body>
+</html>
+```
+```css
+/* style.css */
+p {
+  color: red;
+}
+```
+
+- HTML style tag: [https://www.w3schools.com/tags/tag_style.asp](https://www.w3schools.com/tags/tag_style.asp)
+- HTML link tag: [https://www.w3schools.com/tags/tag_link.asp](https://www.w3schools.com/tags/tag_link.asp)
+- Difference Between the 3 Types of CSS Styles: Inline, External and Internal: [https://www.hostinger.com/tutorials/difference-between-inline-external-and-internal-css#Internal-CSS](https://www.hostinger.com/tutorials/difference-between-inline-external-and-internal-css#Internal-CSS)
+
+
 - HTML Color Picker: https://www.w3schools.com/colors/colors_picker.asp
-- CSS Reference: https://www.w3schools.com/cssref/
 - CSS Units: https://www.w3schools.com/cssref/css_units.asp
+
+## Suggested Homework
+- Find a simple webpage that you really like
+- Try to replicate the overall layout using HTML
+- Try to replicate the styles using CSS
+- Google if there are elements of the chosen webpage that you do not know how to replicate
+- Use Google Chrome to inspect the underlying HTML and CSS of the chosen webpage only when necessary
+- Make notes of the problems that you cannot fix on your own and bring them to the next workshop
