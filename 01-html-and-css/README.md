@@ -161,9 +161,7 @@ A simple website that combines all of the above.
 
 ## Hands-on - CSS
 
-### Useful resources
-- HTML Element Reference: https://www.w3schools.com/TAGS/default.ASP
-- HTML <link> Tag: https://www.w3schools.com/tags/tag_link.asp
+- HTML link tag: https://www.w3schools.com/tags/tag_link.asp
 - HTML Color Picker: https://www.w3schools.com/colors/colors_picker.asp
 - CSS Reference: https://www.w3schools.com/cssref/
 - CSS Units: https://www.w3schools.com/cssref/css_units.asp
