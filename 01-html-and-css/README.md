@@ -65,7 +65,7 @@ p {
 ## Hands-on - HTML
 
 ### Simplest page
-[View the code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/01-simplest-page/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/01-simplest-page/index.html)
+[View the source code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/01-simplest-page/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/01-simplest-page/index.html)
 
 `<DOCTYPE! html>` defines the document type to be HTML5.
 
@@ -91,7 +91,7 @@ p {
 
 
 ### Adding comments
-[View the code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/02-adding-comments/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/02-adding-comments/index.html)
+[View the source code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/02-adding-comments/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/02-adding-comments/index.html)
 ```html
 <!--this is a comment-->
 ```
@@ -99,7 +99,7 @@ p {
 - HTML comment tag: [https://www.w3schools.com/tags/tag_comment.asp](https://www.w3schools.com/tags/tag_comment.asp)
 
 ### Adding an image
-[View the code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/03-adding-an-image/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/03-adding-an-image/index.html)
+[View the source code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/03-adding-an-image/) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/03-adding-an-image/index.html)
 ```html
 <img src="path/to/image" alt="alternative text">
 ```
@@ -107,7 +107,7 @@ p {
 - Unsplash (royalty free photos): [https://unsplash.com](https://unsplash.com)
 
 ### Adding a list
-[View the code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/04-adding-a-list/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/04-adding-a-list/index.html)
+[View the source code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/04-adding-a-list/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/04-adding-a-list/index.html)
 
 #### An unordered list
 ```html
@@ -128,14 +128,14 @@ p {
 HTML Lists: [https://www.w3schools.com/html/html_lists.asp](https://www.w3schools.com/html/html_lists.asp)
 
 ### Adding a link
-[View the code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/05-adding-a-link/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/05-adding-a-link/index.html)
+[View the source code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/05-adding-a-link/) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/05-adding-a-link/index.html)
 ```html
 <a href="relative/or/absolute/url">This is a link</a>
 ```
 HTML a tag: [https://www.w3schools.com/tags/tag_a.asp](https://www.w3schools.com/tags/tag_a.asp)
 
 ### Adding multiple sections
-[View the code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/06-adding-multiple-sections/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/06-adding-multiple-sections/index.html)
+[View the source code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/06-adding-multiple-sections/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/06-adding-multiple-sections/index.html)
 ```html
 <div>
   <h1>Section 1</h1>
@@ -153,6 +153,11 @@ HTML a tag: [https://www.w3schools.com/tags/tag_a.asp](https://www.w3schools.com
 - HTML article tag: [https://www.w3schools.com/tags/tag_article.asp](https://www.w3schools.com/tags/tag_article.asp)
 - HTML aside tag: [https://www.w3schools.com/tags/tag_aside.asp](https://www.w3schools.com/tags/tag_aside.asp)
 - HTML footer tag: [https://www.w3schools.com/tags/tag_footer.asp](https://www.w3schools.com/tags/tag_footer.asp)
+
+### A simple website
+[View the source code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/07-a-simple-website/) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/07-a-simple-website/index.html)
+
+A simple website that combines all of the above.
 
 ## Hands-on - CSS
 
