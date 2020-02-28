@@ -209,7 +209,7 @@ p {
 - Difference Between the 3 Types of CSS Styles: Inline, External and Internal: [https://www.hostinger.com/tutorials/difference-between-inline-external-and-internal-css#Internal-CSS](https://www.hostinger.com/tutorials/difference-between-inline-external-and-internal-css#Internal-CSS)
 
 ### Colors
-[View the source code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/09-colors/) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/09-colors/index.html)
+[View the source code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/09-colors/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/09-colors/index.html)
 ```css
 body {
   background-color: lightgray;
@@ -229,7 +229,7 @@ p {
 - HTML color picker: [https://www.w3schools.com/colors/colors_picker.asp](https://www.w3schools.com/colors/colors_picker.asp)
 
 ### Sizes
-[View the source code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/10-sizes/) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/10-sizes/index.html)
+[View the source code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/10-sizes/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/10-sizes/index.html)
 ```css
 h1 {
   font-size: 8em;
@@ -251,6 +251,7 @@ img {
 - Fun with Viewport Units: [https://css-tricks.com/fun-viewport-units/](https://css-tricks.com/fun-viewport-units/)
 
 ### Spaces
+[View the source code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/11-spaces/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/11-spaces/index.html)
 ```css
 body {
   margin: 0;
