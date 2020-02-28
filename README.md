@@ -34,4 +34,4 @@ This workshop series embraces an example-based learning process. The participant
 
 ## Resources
 - W3Schools: [https://www.w3schools.com](https://www.w3schools.com)
-- MDN Web Docs: [https://developer.mozilla.org/en-US/](https://developer.mozilla.org/en-US/)
+- MDN Web Docs: [https://developer.mozilla.org/](https://developer.mozilla.org/)
