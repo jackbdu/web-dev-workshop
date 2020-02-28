@@ -33,15 +33,16 @@ HTML describes the structure and content of a web page.
   </body>
 </html>
 ```
-- HTML Introduction: [https://www.w3schools.com/html/html_intro.asp](https://www.w3schools.com/html/html_intro.asp)
-- HTML Tutorial on W3Schools: [https://www.w3schools.com/html/default.asp](https://www.w3schools.com/html/default.asp)
+- HTML introduction: [https://www.w3schools.com/html/html_intro.asp](https://www.w3schools.com/html/html_intro.asp)
+- HTML tutorial: [https://www.w3schools.com/html/default.asp](https://www.w3schools.com/html/default.asp)
 
 #### HTML Elements
 An HTML element usually consists of an opening tag and a closing tag, with content in between.
 ```html
 <tagname>some content</tagname>
 ```
-- HTML Elements: [https://www.w3schools.com/html/html_elements.asp](https://www.w3schools.com/html/html_elements.asp)
+- HTML elements: [https://www.w3schools.com/html/html_elements.asp](https://www.w3schools.com/html/html_elements.asp)
+- HTML element reference: [https://www.w3schools.com/TAGS/default.ASP](https://www.w3schools.com/TAGS/default.ASP)
 
 ### CSS
 CSS describes the styles of the elements on a web page.
@@ -58,8 +59,8 @@ p {
   color: red;
 }
 ```
-- CSS Introduction: [https://www.w3schools.com/css/css_intro.asp](https://www.w3schools.com/css/css_intro.asp)
-- CSS Tutorial on W3Schools: [https://www.w3schools.com/css/default.asp](https://www.w3schools.com/css/default.as)
+- CSS introduction: [https://www.w3schools.com/css/css_intro.asp](https://www.w3schools.com/css/css_intro.asp)
+- CSS tutorial: [https://www.w3schools.com/css/default.asp](https://www.w3schools.com/css/default.as)
 
 ## Hands-on - HTML
 
@@ -103,7 +104,7 @@ p {
 <img src="path/to/image" alt="alternative text">
 ```
 - HTML img tag: [https://www.w3schools.com/tags/tag_img.asp](https://www.w3schools.com/tags/tag_img.asp)
-- Unsplash (Royalty Free Photos): [https://unsplash.com](https://unsplash.com)
+- Unsplash (royalty free photos): [https://unsplash.com](https://unsplash.com)
 
 ### Adding a list
 [View the code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/04-adding-a-list/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/04-adding-a-list/index.html)
