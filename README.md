@@ -30,7 +30,7 @@ By the end of the workshop series, participants will
 - Be empowered with infinite resources online to further develop their skills in web development on their own
 
 ## Teaching Methodology
-This workshop series embraces an example-based learning process. The participants will be given code examples that slowly guide them as the workshop progresses. It also focuses on learning by practicing. The participants will be assigned homework that motivates them to branch out and learn on their own. The participants will be encouraged to come with creative solutions of their own, instead of rigidly following the path of the old-timers.
+This workshop series embraces an example-based learning process. The participants will be given code examples that slowly guide them as the workshop progresses. It also focuses on learning by practicing. The participants will be assigned homework that motivates them to branch out and learn on their own. The participants will be encouraged to come up with creative solutions of their own, instead of rigidly following the path of the old-timers.
 
 ## Resources
 - W3Schools: [https://www.w3schools.com](https://www.w3schools.com)
