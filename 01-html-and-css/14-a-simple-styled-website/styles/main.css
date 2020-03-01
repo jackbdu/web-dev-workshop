@@ -1,0 +1,131 @@
+/* overwrites broswer defaults of these styles */
+ul, ol, li, h1, h2, h3, p {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #eee;
+  font-family: Arial, Helvetica, sans-serif;
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  padding: 1em;
+  background: #333;
+  text-align: center;
+}
+
+header h1 {
+  color: lightgray;
+  font-weight: normal;
+  font-size: 1.5em;
+  text-transform: capitalize;
+}
+
+header p {
+  font-style: italic;
+  margin-top: 0.5em;
+  color: #888;
+}
+
+nav {
+  background: #555;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  max-width: 800px;
+  padding: 1em;
+  margin: 0 auto;
+}
+
+nav li {
+  flex-grow: 1;
+  text-align: center;
+}
+
+nav a {
+  color: lightgray;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: white;
+}
+
+main {
+  padding: 1.5em;
+  flex-grow: 1;
+}
+
+main article {
+  max-width: 100%;
+  width: 800px;
+  margin: 0 auto 2em auto;
+  padding-bottom: 0.5em;
+  border-bottom: 2px dashed lightgray;
+}
+
+main article:last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+article h2 {
+  margin-bottom: 0.5em;
+}
+
+article img {
+  max-width: 100%;
+  margin: 0.5em 0;
+}
+
+article p {
+  margin: 0.5em 0;
+}
+
+article p:last-child {
+  margin-bottom: 0;
+}
+
+article a {
+  text-decoration: none;
+  color: #444;
+}
+
+article a:hover {
+  color: #000;
+}
+
+article aside {
+  padding: 1em;
+  border: 2px dashed gray;
+}
+
+footer {
+  padding: 1em;
+  background: #333;
+  color: #888;
+  text-align: center;
+}
+
+footer a {
+  color: lightgray;
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: white;
+}

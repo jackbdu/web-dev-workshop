@@ -330,6 +330,19 @@ img {
 - CSS web safe fonts: [https://www.w3schools.com/cssref/css_websafe_fonts.asp](https://www.w3schools.com/cssref/css_websafe_fonts.asp)
 - CSS reference: [https://www.w3schools.com/cssref/](https://www.w3schools.com/cssref/)
 
+### A simple styled website
+[View the source code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/14-a-simple-styled-website/) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/14-a-simple-styled-website/index.html)
+
+A simple styled website that combines all of the above.
+- CSS text-align property: [https://www.w3schools.com/cssref/pr_text_text-align.ASP](https://www.w3schools.com/cssref/pr_text_text-align.ASP)
+- CSS text-transformation property: [https://www.w3schools.com/cssref/pr_text_text-transform.asp](https://www.w3schools.com/cssref/pr_text_text-transform.asp)
+- CSS text-decoration: [https://www.w3schools.com/cssref/pr_text_text-decoration.asp](https://www.w3schools.com/cssref/pr_text_text-decoration.asp)
+- CSS :hover selector: [https://www.w3schools.com/csSref/sel_hover.asp](https://www.w3schools.com/csSref/sel_hover.asp)
+- CSS :last-child selector: [https://www.w3schools.com/cssref/sel_last-child.asp](https://www.w3schools.com/cssref/sel_last-child.asp)
+- CSS selector reference: [https://www.w3schools.com/cssref/css_selectors.asp](https://www.w3schools.com/cssref/css_selectors.asp)
+- CSS flexbox: [https://www.w3schools.com/css/css3_flexbox.asp](https://www.w3schools.com/css/css3_flexbox.asp)
+- A Complete Guide to Flexbox: [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
 ## Suggested Homework
 - Find a simple webpage that you really like
 - Try to replicate the overall layout using HTML
