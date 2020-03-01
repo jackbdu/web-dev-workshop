@@ -112,7 +112,7 @@ Once you are in Chrome DevTools, if you click on any element in the Elements pan
 ### Adding comments
 [View the source code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/02-adding-comments/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/02-adding-comments/index.html)
 ```html
-<!--this is a comment-->
+<!-- this is a comment in HTML -->
 ```
 
 - HTML comment tag: [https://www.w3schools.com/tags/tag_comment.asp](https://www.w3schools.com/tags/tag_comment.asp)
@@ -227,8 +227,14 @@ p {
 - HTML link tag: [https://www.w3schools.com/tags/tag_link.asp](https://www.w3schools.com/tags/tag_link.asp)
 - Difference Between the 3 Types of CSS Styles: Inline, External and Internal: [https://www.hostinger.com/tutorials/difference-between-inline-external-and-internal-css#Internal-CSS](https://www.hostinger.com/tutorials/difference-between-inline-external-and-internal-css#Internal-CSS)
 
-### Colors
-[View the source code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/09-colors/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/09-colors/index.html)
+### Adding comments
+[View the source code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/09-adding-comments/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/09-adding-comments/index.html)
+```css
+/* this is a comment in CSS */
+```
+
+### Changing colors
+[View the source code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/10-changing-colors/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/10-changing-colors/index.html)
 ```css
 body {
   background-color: lightgray;
@@ -247,8 +253,8 @@ p {
 - Colors tutorial: [https://www.w3schools.com/colors/default.asp](https://www.w3schools.com/colors/default.asp)
 - HTML color picker: [https://www.w3schools.com/colors/colors_picker.asp](https://www.w3schools.com/colors/colors_picker.asp)
 
-### Sizes
-[View the source code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/10-sizes/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/10-sizes/index.html)
+### Modifying sizes
+[View the source code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/11-modifying-sizes/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/11-modifying-sizes/index.html)
 ```css
 h1 {
   font-size: 8em;
@@ -269,8 +275,8 @@ img {
 - CSS units: [https://www.w3schools.com/cssref/css_units.asp](https://www.w3schools.com/cssref/css_units.asp)
 - Fun with Viewport Units: [https://css-tricks.com/fun-viewport-units/](https://css-tricks.com/fun-viewport-units/)
 
-### Spaces
-[View the source code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/11-spaces/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/11-spaces/index.html)
+### Adjusting spaces
+[View the source code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/12-adjusting-spaces/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/12-adjusting-spaces/index.html)
 ```css
 body {
   margin: 0;
@@ -303,7 +309,7 @@ img {
 - CSS padding: [https://www.w3schools.com/css/css_padding.asp](https://www.w3schools.com/css/css_padding.asp)
 
 ### Styling using classes
-[View the source code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/12-styling-using-classes/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/12-styling-using-classes/index.html)
+[View the source code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/13-styling-using-classes/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/13-styling-using-classes/index.html)
 ```html
 <div class="caption">
   <h1>Section 2</h1>
