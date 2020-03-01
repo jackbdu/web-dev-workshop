@@ -78,7 +78,7 @@ p {
 - CSS default values reference: [https://www.w3schools.com/cssref/css_default_values.asp](https://www.w3schools.com/cssref/css_default_values.asp)
 
 #### Inspecting CSS using Chrome DevTools
-Once you are in Chrome DevTools, if you click on any element in the Elements panel, the CSS relevant CSS code shows up in the *Styles* panel.
+Once you are in Chrome DevTools, if you click on any element in the Elements panel, the relevant CSS code will show up in the *Styles* panel.
 
 ![d](images/chrome-devtools-styles.png)
 
