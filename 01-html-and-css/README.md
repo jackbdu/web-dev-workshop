@@ -1,4 +1,9 @@
-# HTML & CSS - Designing Layouts, Content & Styles
+# Part I: HTML & CSS - Designing Layouts, Content & Styles
+
+## Before the Workshop
+- Download and install Google Chrome on your computer: [https://www.google.com/chrome/](https://www.google.com/chrome/)
+- Download and install Atom on your computer: [https://atom.io](https://atom.io)
+- Sign up for GitHub: [https://github.com](https://github.com)
 
 ## Terminologies
 
@@ -11,10 +16,13 @@ The **World Wide Web** (**WWW**), commonly known as **the Web**, is an informati
 ### Web browser
 A **web browser** (commonly referred to as a **browser**) is a software application for accessing information on the World Wide Web. ([Wikipedia](https://en.wikipedia.org/wiki/Web_browser))
 
-### HTML
+### Web development
+**Web development** is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). ([Wikipedia](https://en.wikipedia.org/wiki/Web_development))
+
+#### HTML
 **Hypertext Markup Language** (**HTML**) is the standard markup language for documents designed to be displayed in a web browser. ([Wikipedia](https://en.wikipedia.org/wiki/HTML))
 
-### CSS
+#### CSS
 **Cascading Style Sheets** (**CSS**) is a style sheet language used for describing the presentation of a document written in a markup language like HTML. ([Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets))
 
 ## Overview
@@ -36,13 +44,18 @@ HTML describes the structure and content of a web page.
 - HTML introduction: [https://www.w3schools.com/html/html_intro.asp](https://www.w3schools.com/html/html_intro.asp)
 - HTML tutorial: [https://www.w3schools.com/html/default.asp](https://www.w3schools.com/html/default.asp)
 
-#### HTML Elements
+#### HTML elements
 An HTML element usually consists of an opening tag and a closing tag, with content in between.
 ```html
 <tagname>some content</tagname>
 ```
 - HTML elements: [https://www.w3schools.com/html/html_elements.asp](https://www.w3schools.com/html/html_elements.asp)
 - HTML element reference: [https://www.w3schools.com/TAGS/default.ASP](https://www.w3schools.com/TAGS/default.ASP)
+
+#### Inspecting HTML using Chrome DevTools
+If you right click anywhere on a page in Google Chrome, you can then click *Inspect* to open Chrome DevTools. All the elements of the page will be visible in the *Elements* panel in an interactive fashion.
+
+![d](images/chrome-devtools-elements.png)
 
 ### CSS
 CSS describes the styles of the elements on a web page.
@@ -63,6 +76,11 @@ p {
 - CSS tutorial: [https://www.w3schools.com/css/default.asp](https://www.w3schools.com/css/default.as)
 - CSS reference: [https://www.w3schools.com/cssref/](https://www.w3schools.com/cssref/)
 - CSS default values reference: [https://www.w3schools.com/cssref/css_default_values.asp](https://www.w3schools.com/cssref/css_default_values.asp)
+
+#### Inspecting CSS using Chrome DevTools
+Once you are in Chrome DevTools, if you click on any element in the Elements panel, the CSS relevant CSS code shows up in the *Styles* panel.
+
+![d](images/chrome-devtools-styles.png)
 
 ## Hands-on - HTML
 
@@ -90,7 +108,6 @@ p {
 - HTML body tag: [https://www.w3schools.com/tags/tag_body.asp](https://www.w3schools.com/tags/tag_body.asp)
 - HTML h1 to h6 tags: [https://www.w3schools.com/tags/tag_hn.asp](https://www.w3schools.com/tags/tag_hn.asp)
 - HTML p tag: [https://www.w3schools.com/tags/tag_p.asp](https://www.w3schools.com/tags/tag_p.asp)
-
 
 ### Adding comments
 [View the source code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/02-adding-comments/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/02-adding-comments/index.html)
