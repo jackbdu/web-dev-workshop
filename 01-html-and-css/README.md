@@ -232,6 +232,7 @@ p {
 ```css
 /* this is a comment in CSS */
 ```
+- CSS comments: [https://www.w3schools.com/css/css_comments.asp](https://www.w3schools.com/css/css_comments.asp)
 
 ### Changing colors
 [View the source code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/10-changing-colors/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/10-changing-colors/index.html)
