@@ -305,13 +305,15 @@ img {
 ### Styling using classes
 [View the source code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/12-styling-using-classes/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/12-styling-using-classes/index.html)
 ```html
-<h1 class="caption">This is a caption heading</h1>
-<p class="caption">This is a caption paragraph.</p>
+<div class="caption">
+  <h1>Section 2</h1>
+  <p>Paragraph of section 2.</p>
+</div>
 ```
 ```css
 .caption {
   font-family: sans-serif;
-  font-size: 1em;
+  font-size: 0.8em;
   font-style: italic;
   color: darkgray;
 }
