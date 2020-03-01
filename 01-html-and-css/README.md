@@ -123,6 +123,7 @@ Once you are in Chrome DevTools, if you click on any element in the Elements pan
 <img src="path/to/image" alt="alternative text">
 ```
 - HTML img tag: [https://www.w3schools.com/tags/tag_img.asp](https://www.w3schools.com/tags/tag_img.asp)
+- HTML attributes: [https://www.w3schools.com/html/html_attributes.asp](https://www.w3schools.com/html/html_attributes.asp)
 - Unsplash (royalty free photos): [https://unsplash.com](https://unsplash.com)
 
 ### Adding a list
@@ -300,6 +301,26 @@ img {
 - CSS margins: [https://www.w3schools.com/css/css_margin.asp](https://www.w3schools.com/css/css_margin.asp)
 - CSS borders: [https://www.w3schools.com/css/css_border.asp](https://www.w3schools.com/css/css_border.asp)
 - CSS padding: [https://www.w3schools.com/css/css_padding.asp](https://www.w3schools.com/css/css_padding.asp)
+
+### Styling using classes
+[View the source code](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/12-styling-using-classes/index.html) | [View the page](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/12-styling-using-classes/index.html)
+```html
+<h1 class="caption">This is a caption heading</h1>
+<p class="caption">This is a caption paragraph.</p>
+```
+```css
+.caption {
+  font-family: sans-serif;
+  font-size: 1em;
+  font-style: italic;
+  color: darkgray;
+}
+```
+- HTML classes: [https://www.w3schools.com/html/html_classes.asp](https://www.w3schools.com/html/html_classes.asp)
+- CSS .class selector [https://www.w3schools.com/cssref/sel_class.asp](https://www.w3schools.com/cssref/sel_class.asp)
+- CSS fonts: [https://www.w3schools.com/css/css_font.asp](https://www.w3schools.com/css/css_font.asp)
+- CSS web safe fonts: [https://www.w3schools.com/cssref/css_websafe_fonts.asp](https://www.w3schools.com/cssref/css_websafe_fonts.asp)
+- CSS reference: [https://www.w3schools.com/cssref/](https://www.w3schools.com/cssref/)
 
 ## Suggested Homework
 - Find a simple webpage that you really like
