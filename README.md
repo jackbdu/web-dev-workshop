@@ -9,7 +9,7 @@ The Web has become an integral part of everyday lives and it plays a crucial rol
 | Date  | Topic |
 | ------------- | ------------- |
 | Feb 26 | [HTML & CSS: Designing Layouts, Content & Styles](01-html-and-css) |
-| Mar 4  | JavaScript: Adding Interactive Features |
+| Mar 4  | [JavaScript: Adding Interactive Features](02-javascript) |
 | Apr 8  | TBD |
 | Apr 15 | TBD |
 
