@@ -6,18 +6,10 @@ The Web has become an integral part of everyday lives and it plays a crucial rol
 
 ## Schedule
 
-| Date  | Topic |
-| ------------- | ------------- |
-| Feb 26 | [HTML & CSS: Designing Layouts, Content & Styles](01-html-and-css) |
-| Mar 4  | [JavaScript: Adding Interactive Features](02-javascript) |
-| Apr 8  | TBD |
-| Apr 15 | TBD |
-
-Tentative Topics:
-
-- p5.js: Creating Visuals, Animations, Games
-- APIs: Interfacing with Other Web Services
-- Jekyll: Creating an Online Blog or Portfolio
+| Section   | Topic         |
+| --------- | ------------- |
+| Part I    | [HTML & CSS: Designing Layouts, Content & Styles](01-html-and-css) |
+| Part II   | [JavaScript: Adding Interactive Features](02-javascript) |
 
 ## Learning Outcomes
 By the end of the workshop series, participants will
