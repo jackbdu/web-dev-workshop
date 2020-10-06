@@ -55,7 +55,7 @@ An HTML element usually consists of an opening tag and a closing tag, with conte
 #### Inspecting HTML using Chrome DevTools
 If you right click anywhere on a page in Google Chrome, you can then click *Inspect* to open Chrome DevTools. All the elements of the page will be visible in the *Elements* panel in an interactive fashion.
 
-![d](images/chrome-devtools-elements.png)
+![chrome devtools elements](images/chrome-devtools-elements.png)
 
 ### CSS
 CSS describes the styles of the elements on a web page.
@@ -80,7 +80,7 @@ p {
 #### Inspecting CSS using Chrome DevTools
 Once you are in Chrome DevTools, if you click on any element in the Elements panel, the relevant CSS code will show up in the *Styles* panel.
 
-![d](images/chrome-devtools-styles.png)
+![chrome devtools styles](images/chrome-devtools-styles.png)
 
 ## Hands-on - HTML
 
@@ -343,6 +343,64 @@ A simple styled website that combines all of the above.
 - CSS selector reference: [https://www.w3schools.com/cssref/css_selectors.asp](https://www.w3schools.com/cssref/css_selectors.asp)
 - CSS flexbox: [https://www.w3schools.com/css/css3_flexbox.asp](https://www.w3schools.com/css/css3_flexbox.asp)
 - A Complete Guide to Flexbox: [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+## Publishing your website
+
+There are many ways to publish your website, but one of the easiest way is with [GitHub Pages](https://pages.github.com). And it's completely __free__!
+
+### Creating a repository
+
+Go to [github.com](https://github.com). Once logged in, click on the _+_ icon and then _New repository_.
+
+![New repository](images/publish-your-website-01-new-repo.png)
+
+Enter _Repository name_ and _Description_, then click _Create repository_.
+
+Note that the repository name is going to be a part of the URL of the website you are going to publish, so lowercase words joined by hyphens is generally a good format.
+
+![Create repository](images/publish-your-website-02-create-repo.png)
+
+### Uploading the files
+
+Once the repository is created, click _uploading an existing file_.
+
+![Uploading an existing file](images/publish-your-website-03-uploading-an-existing-file.png)
+
+The easiest way to upload your website is to select all the files (including .html files, .css files, and the image files, etc.) and drag them to the area as indicated below.
+
+![Drag files here](images/publish-your-website-04-drag-files-here.png)
+
+Wait until all your file names appear on this page, then click _Commit changes_ to confirm the upload.
+
+Optionally, you can add some comments to this upload so it will be easy for you to track this upload in future.
+
+![Commit changes](images/publish-your-website-05-commit-changes.png)
+
+### Publishing with GitHub Pages
+
+It may take a few minutes for the files to be uploaded depending on your file sizes and your internet connection.
+
+Your files are ready when you see something similar to the page below, and then you can go to _Settings_.
+
+![Settings](images/publish-your-website-06-settings.png)
+
+On the _Settings_ page, scroll all the way down, you will see the section _GitHub Pages_. Click on _None_ and select _main_ (the default branch where you have uploaded all your files to) as the source.
+
+![GitHub Pages - Source - Main](images/publish-your-website-07-github-pages-source-main.png)
+
+Click _Save_ to confirm your source selection.
+
+![GitHub Pages - Save](images/publish-your-website-08-github-pages-source-save.png)
+
+Once saved, if you scroll down to the section _GitHub Pages_ again, you will see a link that will take you to your published website.
+
+Note that the URL of your website should look like this: your-username.github.io/your-repository-name.
+
+![GitHub Pages - Ready to be published](images/publish-your-website-09-github-pages-ready-to-be-published.png)
+
+Woohoo, you just published your first website and you can share this with anyone that has internet access!
+
+![Published website](images/publish-your-website-10-published-website.png)
 
 ## Suggested Homework
 - Find a simple webpage that you really like
