@@ -55,7 +55,7 @@ let views = 0;
 const USERNAME = 'jack';
 ```
 
-![let and const](images/variables-let-and-const.png);
+![let and const](images/variables-let-and-const.png)
 
 In the above example, `views` and `USERNAME` are the __names__ of the variables, and `0` and `'jack'` are the __values__ of the variables.
 
@@ -87,7 +87,7 @@ let b = 5;
 let c = a + b; // the value of 15 (the sum of a and b) is assigned to the variable c
 ```
 
-![Addition Example](images/operators-addition-example.png);
+![Addition Example](images/operators-addition-example.png)
 
 #### Assignment operators
 
