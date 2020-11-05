@@ -145,6 +145,70 @@ There are many more types of operators. You can check them out in the links belo
 - JavaScript operators: [https://www.w3schools.com/js/js_operators.asp](https://www.w3schools.com/js/js_operators.asp)
 - JavaScript expressions and operators: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
 
+### Conditionals
+
+One really important feature of programming languages is to carry out different sets of instructions when different conditions are met. We use `if`, `else if`, and `else` for this.
+
+```javascript
+let a = 5;
+let b = 2;
+if (a < b) {                          // conditions are put in parentheses
+  console.log('a is less than b');    // this line is run only if the condition `a < b` evaluates to true
+} else if (a == b) {                  // this is evaluated only if the previous condition evaluates to false
+  console.log('a equals to b');       // this line is run only if the condition `a == b` evaluates to true and the previous condition evaluates to false
+} else {                              // no conditions should be provided for `else`
+  console.log('a is greater than b'); // this line is run only if all previous conditions evaluate to false
+}
+```
+
+![Conditionals](images/conditionals.png)
+
+In the above example, all three statements (`if`, `else if`, and `else`) are used, but that is not always the case. We can use any combinations of them with a few rules:
+
+1. `if` is always required and must be the first statement when there is more than one statements
+2. `else` must be the last statement if being used
+3. `else if` can be used for as many times in between `if` and `else`
+
+- JavaScript if else and else if: [https://www.w3schools.com/js/js_if_else.asp](https://www.w3schools.com/js/js_if_else.asp)
+- Making decisions in your code — conditionals: [https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
+- Learn JavaScript - Conditionals: [https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-control-flow/cheatsheet](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-control-flow/cheatsheet)
+
+### Loops
+
+One other great thing programming languages can do is to carry out the same instructions for as many times as we want (almsot). This is done with loops. Two of the most common types of loops are `for` and `while`.
+
+#### for
+
+The `for` statement loops through a block of code for a specified number of times.
+
+```javascript
+for (let i = 0; i < 10; i++) {  // before the for loop starts, i is set to be 0
+  console.log(i);               // this line is run while i < 10 evaluates to true, otherwise this for loop is finished
+}                               // i++ is the same as i = i + 1, so i is incremented by 1 before i < 10 is evaluated again
+```
+
+![Loops - for](images/loops-for.png)
+
+#### while
+
+The `while` statement loops through a block of code while a specified condition evaluates to `true`.
+
+```javascript
+let i = 0;        // sets i to 1
+while (i < 10) {  // loops the code block below only if i < 10 evaluates to true
+  console.log(i);
+  i++;            // increments i by 1
+}
+```
+
+![Loops while](images/loops-while.png)
+
+The above `while` example is equivalent to the previous `for` example, but since they are structured differently, they can be used to fit different needs.
+
+- JavaScript for statement: [https://www.w3schools.com/jsref/jsref_for.asp](https://www.w3schools.com/jsref/jsref_for.asp)
+- JavaScript for loop: [https://www.w3schools.com/js/js_loop_for.asp](https://www.w3schools.com/js/js_loop_for.asp)
+- Loops and iteration: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
+
 ### DOM
 
 #### innerHTML
@@ -153,9 +217,6 @@ There are many more types of operators. You can check them out in the links belo
 
 ### input
 
-### for loop
-
-### conditionals
 
 ### arrays
 
