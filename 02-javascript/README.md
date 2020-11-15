@@ -209,16 +209,79 @@ The above `while` example is equivalent to the previous `for` example, but since
 - JavaScript for loop: [https://www.w3schools.com/js/js_loop_for.asp](https://www.w3schools.com/js/js_loop_for.asp)
 - Loops and iteration: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
 
-### DOM
+### Arrays
 
-#### innerHTML
+An array is a special data type that lets you store multiple values in a single variable. We access the individual values by specifying their indices in `[]`, starting from `[0]` for the first value, `[1]` for the second value, and so on.
 
-#### style
+```javascript
+let fruits = ['apple', 'peach', 'strawberry']; // creates an array containing three different fruit names
+console.log(fruits[1]);                        // logs the value with index 1 ('peach')
+console.log(fruits[2]);                        // logs the value with index 2 ('strawberry')
+fruits[0] = 'blueberry';                       // modifies the value with index 0 ('apple') to be 'blueberry'
+console.log(fruits[0]);                        // logs the value with index 0 ('blueberry')
+```
 
-### input
+![Arrays](images/arrays.png)
 
+- JavaScript arrays: [https://www.etihad.com/en-ae/](https://www.etihad.com/en-ae/)
+- Array: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
-### arrays
+## Manipulating HTML & CSS with JavaScript
+
+### Document Object Model (DOM)
+
+When a web page is loaded, the browser creates a Document Object Model. It allows JavaScript to control many aspects of the web page, including both HTML and its CSS styles. In order to access the HTML document object defined by DOM, we use the keyword `document`.
+
+Here are a few examples:
+
+```javascript
+console.log(document);                                // logs the entire DOM document object
+console.log(document.body);                           // logs the body of the document
+console.log(document.getElementsByTagName('h2'));     // logs an array of all <h2> elements in the document
+console.log(document.getElementsByClassName('html')); // logs an array of all elements with class html in the document
+```
+
+_The web page used in the following examples can be found [here](https://jackbdu.github.io/web-dev-workshop/01-html-and-css/14-a-simple-styled-website/index.html) and the source code of the web page can be found [here](https://github.com/jackbdu/web-dev-workshop/blob/master/01-html-and-css/14-a-simple-styled-website/)._
+
+![DOM](images/dom.png)
+
+In addition, we can use `document.getElementById()` to access a specific HTML element by specifying its `id`.
+
+- JavaScript HTML DOM: [https://www.w3schools.com/js/js_htmldom.asp](https://www.w3schools.com/js/js_htmldom.asp)
+- Document Object Model (DOM): [https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+- JavaScript HTML DOM Document: [https://www.w3schools.com/js/js_htmldom_document.asp](https://www.w3schools.com/js/js_htmldom_document.asp)
+
+### innerHTML
+
+We've learned how to access different HTML elements in JavaScript, in order to modify the HTML content within the element, we use `innerHTML`. Note that `document.getElementsByTagName()` and `document.getElementsByClassName()` return an array of elements, so we need to specify the index of the exact element to be modified.
+
+```javascript
+document.getElementsByTagName('h1')[0].innerHTML = 'Replaced Website Title';   // replaces the HTML content of the first <h1> element found
+document.getElementsByTagName('p')[0].innerHTML = 'Replaced Website Tagline';  // replaces the HTML content of the first <p> element found
+document.getElementsByTagName('h2')[0].innerHTML = 'Replaced Website Tagline'; // replaces the HTML content of the first <h2> element found
+for (let i = 0; i < document.getElementsByTagName('a').length; i++) {          // iterates through all the <a> elements
+  document.getElementsByTagName('a')[i].innerHTML = 'Link ' + i;               // replaces the HTML content of the <a> element with index i
+}
+```
+
+![DOM - innerHTML](images/dom-innerhtml.png)
+
+- HTML DOM innerHTML property: [https://www.w3schools.com/jsref/prop_html_innerhtml.asp](https://www.w3schools.com/jsref/prop_html_innerhtml.asp)
+
+### Style
+
+Similarly, we can use `style` to edit the CSS style of the element. Note that `-` is not allowed in JavaScript syntax, so we need to convert CSS property names into cameCase.
+
+```javascript
+document.body.style.backgroundColor = 'red';                                 // sets background-color of body to be 'red'
+document.getElementsByTagName('a')[1].style.color = 'green';                 // sets color of the second <a> element found to be 'green'
+document.getElementsByClassName('html')[0].style.border = '5px dashed blue'; // sets the border of the first element with class 'html' to be be '5px dashed blue'
+```
+
+![DOM - Style](images/dom-style.png)
+
+- JavaScript HTML DOM - Changing CSS: [https://www.w3schools.com/js/js_htmldom_css.asp](https://www.w3schools.com/js/js_htmldom_css.asp)
+- Camel case: [https://en.wikipedia.org/wiki/Camel_case](https://en.wikipedia.org/wiki/Camel_case)
 
 ## Other resources
 
