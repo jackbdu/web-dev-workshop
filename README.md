@@ -10,6 +10,8 @@ The Web has become an integral part of everyday lives and it plays a crucial rol
 | --------- | ------------- |
 | Part I    | [HTML & CSS: Designing Layouts, Content & Styles](01-html-and-css) |
 | Part II   | [JavaScript: Adding Interactive Features](02-javascript) |
+| Part III  | [Jekyll - Creating an Online Blog or Portfolio](http://github.com/barryclark/jekyll-now/) |
+| Part IV   | [p5.js: Creating Visuals, Animations, Games](https://p5js.org) |
 
 ## Learning Outcomes
 By the end of the workshop series, participants will
